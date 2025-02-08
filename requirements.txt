@@ -1,0 +1,41 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Scientific computing and numerical operations
+scipy
+statsmodels
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep learning
+tensorflow
+keras
+torch
+transformers
+
+# Data handling and web scraping
+requests
+beautifulsoup4
+
+# Interactive widgets
+jupyterlab
+ipywidgets
+
+# Miscellaneous
+tqdm
+
+#Feature engeneering
+feature_engine
+
+#Auto formater
+black
